@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.bat
+
+# Local credentials
+service_account.json
+
+# Build / node
+node_modules/
+dist/
+
+# Review queue (local state)
+review/review_queue.json
+
+# OS
+.DS_Store

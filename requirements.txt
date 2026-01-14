@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+google-cloud-documentai
+google-cloud-aiplatform
+pydantic
+pandas
+faiss-cpu
+python-dotenv
